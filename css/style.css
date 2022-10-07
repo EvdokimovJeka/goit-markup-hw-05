@@ -715,7 +715,7 @@ body {
   transition-duration: 250ms;
   transition-timing-function: var(--timing-function);
 
-
+  z-index: 1;
 }
 
 .modal {
